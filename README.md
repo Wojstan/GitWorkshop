@@ -1,3 +1,3 @@
 This is a small exercise for practising git.
 
-Lets adds new line with som typoos.
+Lets add new line with som typoos.
