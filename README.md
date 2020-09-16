@@ -1,3 +1,3 @@
 This is a small exercise for practising git.
 
-Lets add a new line with som typos.
+Lets add a new line with some typos.
