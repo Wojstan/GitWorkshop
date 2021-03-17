@@ -4,4 +4,4 @@ Let's add a new line with some typos.
 
 Let's adds another line with some typos.
 
-Lets add anoter line with som typos.
+Let's add anoter line with som typos.
