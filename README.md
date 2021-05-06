@@ -6,4 +6,4 @@ Let's adds another line with some typos.
 
 Let's add another line with some typos!
 
-Here is anoter line with new gramar mistaces.
+Here is anoter line with new gramar mistakes.
