@@ -8,4 +8,4 @@ Let's add another line with some typos!
 
 Here is another line with new gramar mistakes.
 
-New lines with additional gramar mistakes.
+New lines with additional grammar mistakes.
