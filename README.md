@@ -10,4 +10,4 @@ Here is another line with new gramar mistakes.
 
 New lines with additional grammar mistakes.
 
-There is new lines with additional grammar mistaces.
+There are new lines with additional grammar mistaces.
