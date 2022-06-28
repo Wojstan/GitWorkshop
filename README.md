@@ -12,4 +12,4 @@ New lines with additional grammar mistakes.
 
 There are new lines with additional grammar mistakes and some other words.
 
-Anoder boootcamp, another misteaks. Any english teacher available?
+Another boootcamp, another misteaks. Any english teacher available?
