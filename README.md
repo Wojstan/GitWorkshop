@@ -13,3 +13,5 @@ New lines with additional grammar mistakes.
 There are new lines with additional grammar mistakes and some other words.
 
 Another bootcamp, another misteaks. Any english teacher available?
+
+Col workszop, lets makee som misteaakes.
