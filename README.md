@@ -14,4 +14,4 @@ There are new lines with additional grammar mistakes and some other words.
 
 Another bootcamp, another misteaks. Any english teacher available?
 
-Cool workshop, lets make some mistakes!
+Cool workshop, let's make some mistakes!
