@@ -16,4 +16,4 @@ Another bootcamp, another misteaks. Any english teacher available?
 
 Cool workshop, let's make some mistakes!
 
-👨🏻 Daddy always said life was like a box of chocolates. You never know what you're gonna eat || Willy Wonka
+👨🏻 Daddy always said life was like a box of chocolates. You never know what you're gonna get || Willy Wonka
